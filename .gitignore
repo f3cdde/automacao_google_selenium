@@ -1,0 +1,5 @@
+# Ignorar arquivos de cache do Selenium
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
